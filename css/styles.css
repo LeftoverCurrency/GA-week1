@@ -1,0 +1,46 @@
+body {
+
+font-family: sans-serif;
+font-size: 16px;
+line-height: 1.5; 
+margin: 25px;
+border-bottom: 10px solid #73b200;
+border-top: 10px solid #73b200
+padding: 40px
+background: #DCDCDC;
+
+}
+
+a {
+	font-weight: bold;
+	color: #73b200;
+}
+
+a:hover {
+	color: #4169E1;
+}
+
+strong {
+
+	color: 	#2F4F4F
+	font-weight: bold;
+}
+
+h1 {
+
+	font-weight: bold;
+	text-align: center;
+	color: #000000
+	margin-top: 0;
+}
+
+h2 {
+
+	color: #4169E1;
+}
+
+nav {
+
+	font-weight: bold;
+	text-align: center;
+}
